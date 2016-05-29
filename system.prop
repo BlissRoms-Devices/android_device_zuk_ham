@@ -35,3 +35,7 @@ ro.ril.em_redial_vt_failover=true
 
 # Factory reset protection
 ro.frp.pst=/dev/block/bootdevice/by-name/frp
+
+# Specific device info (Bliss building)
+ro.product.model=Z1
+ro.product.device=ham
